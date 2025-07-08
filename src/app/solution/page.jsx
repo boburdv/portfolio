@@ -14,7 +14,7 @@ export default function Solution() {
             <p className="text-muted-foreground font-semibold text-lg">
               Bunday sahifa mavjud emas! <br />
             </p>
-            <span className="text-slate-500 text-lg mb-4">Bu boshlanishidan oldingi jimjitlik</span>
+            <span className="text-slate-500 text-lg mb-4">Bu boshlanishidan oldingi jimjitlik...</span>
           </div>
           <div className="animate-slide-top delay-500">
             <Link href="/" className={buttonVariants({ variant: "default" })}>
