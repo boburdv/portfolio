@@ -34,17 +34,6 @@ function Mobile({ open, pathname }) {
               </li>
             );
           })}
-          <li>
-            <a
-              className={`${buttonVariants({
-                variant: "default",
-              })} justify-center w-full`}
-              href="https://t.me/by_ilhomlandim"
-              target="_blank"
-            >
-              Blog
-            </a>
-          </li>
         </ul>
       </nav>
     )

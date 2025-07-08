@@ -30,7 +30,7 @@ export default function Me() {
                 className={`${buttonVariants({
                   variant: "default",
                 })} animate-slide-top delay-900`}
-                href="/projects/"
+                href="/solution"
               >
                 Yechimlar
               </Link>
@@ -39,7 +39,7 @@ export default function Me() {
                   variant: "outline",
                 })} animate-slide-top delay-1200`}
                 target="_blank"
-                href="https://t.me/by_ilhomlandim"
+                href=""
               >
                 Haqimda
               </a>
