@@ -15,7 +15,7 @@ export default function Social() {
                 size: "icon",
               })} scale-[80%]`}
               onClick={() => {
-                window?.open("http://localhost:3000/resume.pdf", "_blank");
+                window?.open("https://boburdv-portfolio.vercel.app/resume.pdf", "_blank");
               }}
             >
               <BriefcaseBusiness />
