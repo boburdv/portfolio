@@ -35,7 +35,7 @@ export default function Social() {
                 size: "icon",
               })} scale-[80%]`}
               onClick={() => {
-                window?.open("https://github.com/BoburDv", "_blank");
+                window?.open("https://github.com/boburdv", "_blank");
               }}
             >
               <GitHubLogoIcon />
