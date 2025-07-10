@@ -88,7 +88,7 @@ export default function Social() {
           </Tooltip>
         </TooltipProvider>
       </li>
-      {/* <li>
+      <li>
         <TooltipProvider delayDuration={0}>
           <Tooltip>
             <TooltipTrigger
@@ -109,7 +109,7 @@ export default function Social() {
             </TooltipContent>
           </Tooltip>
         </TooltipProvider>
-      </li> */}
+      </li>
     </ul>
   );
 }
