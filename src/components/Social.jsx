@@ -15,7 +15,7 @@ export default function Social() {
                 size: "icon",
               })} scale-[80%]`}
               onClick={() => {
-                window?.open("https://boburdv-portfolio.vercel.app/resume.pdf", "_blank");
+                window?.open("https://boburdvportfolio.vercel.app/resume.pdf", "_blank");
               }}
             >
               <BriefcaseBusiness />
@@ -75,7 +75,7 @@ export default function Social() {
                 size: "icon",
               })} scale-[80%]`}
               onClick={() => {
-                window?.open("https://t.me/BoburDv", "_blank");
+                window?.open("https://t.me/boburdv", "_blank");
               }}
             >
               <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" viewBox="0 0 24 24">
