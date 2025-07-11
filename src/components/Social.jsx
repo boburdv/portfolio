@@ -55,7 +55,7 @@ export default function Social() {
                 size: "icon",
               })} scale-[80%]`}
               onClick={() => {
-                window?.open("https://www.linkedin.com/in/boburdv", "_blank");
+                window?.open("https://www.linkedin.com/in/bybobur", "_blank");
               }}
             >
               <LinkedInLogoIcon />
