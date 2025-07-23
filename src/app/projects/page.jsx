@@ -3,14 +3,13 @@ import { Link } from "lucide-react";
 
 const projectList = [
   {
-    title: "Rock Paper Scissors",
-    href: "https://8-oy-9.vercel.app",
+    title: "noteapp",
+    href: "https://boburdv-note.vercel.app",
     description: "",
   },
-
   {
-    title: "Designo",
-    href: "https://notion-orpin-phi.vercel.app/",
+    title: "rock papers cissors",
+    href: "https://8-oy-9.vercel.app",
     description: "",
   },
   // {
